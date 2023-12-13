@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Médica</title>
+    <!-- Ligar ao arquivo CSS, se houver -->
+</head>
+<body>
+
+<!-- Header -->
+<header>
+    <!-- Imagem da Página Principal -->
+    <img src="imagem_principal.jpg" alt="Imagem Principal">
+</header>
+
+<!-- Menu de Navegação -->
+<nav>
+    <ul>
+        <li><a href="index.html">Página Principal</a></li>
+        <li><a href="sobre.html">Sobre a Clínica</a></li>
+        <li><a href="horario.html">Horário de Atendimento</a></li>
+        <li><a href="contato.html">Contato</a></li>
+    </ul>
+</nav>
+
+<!-- Conteúdo -->
+<div id="content">
+    <!-- Conteúdo da Página Principal -->
+    <h2>Página Principal</h2>
+    <p>Breve descrição sobre a clínica...</p>
+
+    <!-- Footer -->
+    <footer>
+        <p>Contato: telefone@email.com | Endereço da Clínica</p>
+    </footer>
+</div>
+
+</body>
+</html>
